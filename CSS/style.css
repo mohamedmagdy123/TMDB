@@ -1,0 +1,53 @@
+body {
+    font-family: "Source Sans Pro", Arial, sans-serif;
+
+}
+
+nav {
+    background-color: #032541;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.nav-link:hover {
+    color: #fff;
+}
+
+.btn-custome {
+    color: white;
+    font-weight: 600;
+    background: linear-gradient(to bottom, rgba(102, 198, 180, 1), rgba(58, 189, 201, 1))
+}
+
+.btn-custome:hover {
+    color: white;
+}
+
+
+.overlayer {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.rate-badge {
+    font-size: 14px;
+    font-weight: bolder;
+    padding: 5px 10px;
+    border-radius: 20px;
+    border:1px solid #032541;
+    color: #fff;
+    background-color: #032541;
+    position: absolute;
+    top:0;
+    left:20px;
+    transform: translate(0,-50%);
+}
+.card-title:hover{
+    color:#01b4e4
+}
