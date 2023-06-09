@@ -48,6 +48,12 @@ nav {
     left:20px;
     transform: translate(0,-50%);
 }
+.card-title{
+    font-size: 18px;
+}
 .card-title:hover{
     color:#01b4e4
+}
+.page-item{
+    cursor: pointer;
 }
